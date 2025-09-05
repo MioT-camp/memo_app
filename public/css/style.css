@@ -15,3 +15,92 @@
 .priority-high {
     color: red;
 }
+
+h1 {
+    color: #6e6e6e;
+    font-size: 20px;
+}
+
+p {
+    color: #6e6e6e;
+    font-size: 16px;
+}
+
+a {
+    color: #6e6e6e;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+a:hover {
+    color: #2ea4b0;
+    font-size: 16px;
+}
+
+ul {
+    color: #6e6e6e;
+    font-size: 20px;
+}
+
+li {
+    color: #6e6e6e;
+    font-size: 20px;
+}
+
+button {
+    background-color: #6e6e6e;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #2ea4b0;
+    font-size: 16px;
+}
+
+label {
+    font-size: 16px;
+    color: #6e6e6e;
+}
+
+select {
+    background-color: #c4d8dc49;
+    color: #6e6e6e;
+    font-size: 16px;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+input {
+    background-color: #c4d8dc49;
+    width: 30%;
+    height: 10px;
+    color: #6e6e6e;
+    font-size: 16px;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+textarea {
+    width: 30%;
+    height: 100px;
+    background-color: #c4d8dc49;
+    color: #6e6e6e;
+    font-size: 16px;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
