@@ -43,3 +43,4 @@ $getPriorityClass = function ($priority) {
     </ul>
     <button wire:click="create">登録する</button>
 </div>
+
